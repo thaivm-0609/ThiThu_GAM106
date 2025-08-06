@@ -8,6 +8,6 @@
 
         public string? email { get; set; }
 
-        public int experiexperiencePoints { get; set; }
+        public int experiencePoints { get; set; }
     }
 }
